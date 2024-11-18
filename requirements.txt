@@ -1,0 +1,8 @@
+streamlit
+pandas
+flask
+openpyxl
+mailjet-rest 
+requests 
+pyperclip
+openai==0.28.0
